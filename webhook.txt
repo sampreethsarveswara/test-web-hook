@@ -4,3 +4,4 @@ Three
 updated
 update failed, retry
 transation failed
+new jpa entity
